@@ -1,2 +1,1 @@
-# Factors-Contributing-to-the-Success-of-a-Movie-Analysis
-The goal of this project is to identify the factors that contribute to the success of a movie, specifically whether the production company, the movie's budget, or other variables play a significant role in determining a movie's success. This project aims to provide valuable insights tohelp movie production companies make more informed decisions
+
